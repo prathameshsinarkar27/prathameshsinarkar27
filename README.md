@@ -79,7 +79,7 @@ End-to-end E-commerce Customer Intelligence Platform
 - Generated business insights using SQL and DAX
 
 🔗 Repository:
-<YOUR_GITHUB_LINK>
+<[GITHUB_LINK](https://github.com/prathameshsinarkar27/CustomerPulse)>
 
 ---
 
@@ -100,7 +100,7 @@ Financial Fraud Detection using Explainable AI
 - Explainable AI using SHAP & LIME
 
 🔗 Repository:
-<YOUR_GITHUB_LINK>
+<[GITHUB_LINK](https://github.com/prathameshsinarkar27/Neural-Fraud-Shield)>
 
 ---
 
@@ -123,7 +123,7 @@ Explainable Multi-Model Spam Detection System
 - Interactive prediction dashboard
 
 🔗 Repository:
-<YOUR_GITHUB_LINK>
+<[GITHUB_LINK](https://github.com/prathameshsinarkar27/SpamShield-AI)>
 
 ---
 
@@ -162,10 +162,15 @@ AI-Powered Stock Market Analytics & Decision Intelligence Platform
 
 ---
 
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 
-> GitHub automatically displays contribution graphs and pinned repositories on your profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prathameshsinarkar27&show_icons=true&theme=default" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshsinarkar27&layout=compact&theme=default" />
+</p>
 ---
 
 # 🤝 Let's Connect
