@@ -162,16 +162,6 @@ AI-Powered Stock Market Analytics & Decision Intelligence Platform
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathameshsinarkar27&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshsinarkar27&layout=compact&theme=default" />
-</p>
----
 
 # 🤝 Let's Connect
 
